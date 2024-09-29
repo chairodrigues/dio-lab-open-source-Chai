@@ -45,14 +45,13 @@ Aprender o básico sobre contribuição no GitHub.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-<div  align="center">
 
+### GitHub Stats
+<div  align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chairodrigues&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chairodrigues&layout=compact&langs_count=7&theme=react)
 
 </div>
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chairodrigues&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
 
 ## Conecte-se comigo
