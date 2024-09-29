@@ -1,3 +1,9 @@
+<div>
+    
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=chairodrigues&repo=chairodrigues&countColorcountColor)
+    
+![Visitor Count](https://profile-counter.glitch.me/chairodrigues/count.svg)
+<div/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3699F7&background=95B2FF00&multiline=true&width=435&separator=%3C&lines=Ol%C3%A1+mundo%2C+me+chamo+Chai+;)%3CMe+segue+no+LinkedIn+%3A)" alt="Typing SVG" /></a>
 
 <h1>
