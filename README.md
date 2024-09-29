@@ -22,4 +22,11 @@ Aprender o básico sobre contribuição no GitHub.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chairodrigues&layout=compact&langs_count=7&theme=react)
 
 </div>
+
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaianne-rodrigues-533a4220b/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:chaiannerodrigues5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chairodrigues)
+
+
 <div align="center">Feito com 💙 por <a href="https://github.com/chairodrigues">Chai</a>.</div>
