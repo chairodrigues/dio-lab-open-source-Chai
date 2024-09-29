@@ -1,7 +1,5 @@
 <div>
     
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=chairodrigues&repo=chairodrigues&countColorcountColor)
-    
 ![Visitor Count](https://profile-counter.glitch.me/chairodrigues/count.svg)
 <div/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3699F7&background=95B2FF00&multiline=true&width=435&separator=%3C&lines=Ol%C3%A1+mundo%2C+me+chamo+Chai+;)%3CMe+segue+no+LinkedIn+%3A)" alt="Typing SVG" /></a>
@@ -68,5 +66,7 @@ Aprender o básico sobre contribuição no GitHub.
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:chaiannerodrigues5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chairodrigues)
 
+
+![Typing SVG](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Chai&reversal=false&section=footer&fontColor=5858FA)
 
 <div align="center">Feito com 💙 por <a href="https://github.com/chairodrigues">Chai</a>.</div>
